@@ -89,6 +89,6 @@
   },
   "packageManager": "pnpm@8.15.9",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@shibomb:registry": "https://npm.pkg.github.com"
   }
 }
