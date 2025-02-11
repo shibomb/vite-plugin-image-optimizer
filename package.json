@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-image-optimizer",
-  "version": "1.1.",
-  "author": "fatehak",
+  "version": "1.1.9",
+  "author": "shibomb",
   "files": [
     "dist/"
   ],
@@ -20,12 +20,12 @@
   "description": "A Vite plugin to optimize your image assets using Sharp.js and SVGO",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FatehAK/vite-plugin-image-optimizer"
+    "url": "https://github.com/shibomb/vite-plugin-image-optimizer"
   },
   "bugs": {
-    "url": "https://github.com/FatehAK/vite-plugin-image-optimizer/issues"
+    "url": "https://github.com/shibomb/vite-plugin-image-optimizer/issues"
   },
-  "homepage": "https://github.com/FatehAK/vite-plugin-image-optimizer#readme",
+  "homepage": "https://github.com/shibomb/vite-plugin-image-optimizer#readme",
   "keywords": [
     "vite",
     "vite-plugin",
